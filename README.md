@@ -1,5 +1,25 @@
 # Day wise updates
 
+Day 4 - 8th June, 2022
+
+- gave one virtual contest
+
+  - 1st problem solved
+  - 3rd understood, 78/80 cases passed after that got TLE
+    - had to see the solution
+  - did not solved 2nd and 4th problem
+
+- array inversion
+
+  - brute force is giving TLE
+  - learned merge sort
+
+- search a 2D matrix
+
+- Merge two sorted arrays (submit nathi thato)
+
+---
+
 Day 3 - 7th June, 2022
 
 - merge intervals

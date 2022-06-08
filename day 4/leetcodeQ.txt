@@ -1,0 +1,53 @@
+3rd que.
+https://leetcode.com/contest/weekly-contest-296/problems/replace-elements-in-an-array/
+
+Code:
+class Solution {
+public:
+    vector<int> arrayChange(vector<int>& nums, vector<vector<int>>& operations) {
+         unordered_map<int,int> hm;     //****store index of element in map
+        for(int i =0;i<nums.size();i++){
+            
+            hm[nums[i]] = i;   //** use map to find the index 
+        }
+        
+        for(int i =0;i<operations.size();i++){
+            
+            
+            int a  = operations[i][0];
+            int b = operations[i][1];
+            
+            nums[hm[a]] = b;
+            
+            hm[b] = hm[a];  //**also store the changed element in hashmap
+            
+            
+        }
+        return nums;
+    }
+};
+
+1st que.
+https://leetcode.com/contest/weekly-contest-296/problems/min-max-game/
+
+Code:
+class Solution {
+public:
+    int minMaxGame(vector<int>& nums) {
+        int n = nums.size();
+        if(n == 1){
+            return nums[0];
+        }
+        
+        vector<int> newNums(n/2);
+        for(int i = 0; i < n/2; i++){
+            if(i % 2 == 0){
+                newNums[i] = min(nums[2 * i], nums[2 * i + 1]);
+            }
+            else{
+                newNums[i] = max(nums[2 * i], nums[2 * i + 1]);
+            }
+        }
+        return minMaxGame(newNums);       
+    }
+};
