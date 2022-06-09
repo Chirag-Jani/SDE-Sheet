@@ -1,5 +1,11 @@
 # Day wise updates
 
+Day 5 - 9th June, 2020
+
+- majority element ( > n/2 times)
+
+---
+
 Day 4 - 8th June, 2022
 
 - gave one virtual contest
