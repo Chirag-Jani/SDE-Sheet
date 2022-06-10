@@ -1,6 +1,14 @@
 # Day wise updates
 
-Day 5 - 9th June, 2020
+Day 6 - 10th June, 2022
+
+- Unique paths
+
+  - had alredy solved but did again
+
+---
+
+Day 5 - 9th June, 2022
 
 - majority element ( > n/2 times)
 
