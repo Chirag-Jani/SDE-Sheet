@@ -1,10 +1,20 @@
 # Day wise updates
 
+Day 7 - 11th June, 2022
+
+- deepest leaves sum (leetcode medium - binary tree)
+- merge nodes between zero (leetcode medium - linked list)
+- majority elements II (sde sheet)
+
+---
+
 Day 6 - 10th June, 2022
 
 - Unique paths
 
   - had alredy solved but did again
+
+- reverse pairs (leetcode hard) {skipped as of now}
 
 ---
 

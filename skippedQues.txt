@@ -4,3 +4,9 @@ Arrays
 Arrays II
 - Repeat and Missing Number
 - merge two sorted arrays
+
+Arrays III
+- reverse pairs
+
+Leetcode questions:
+- Minimum to reduce x (day 7)
