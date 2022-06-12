@@ -10,3 +10,5 @@ Arrays III
 
 Leetcode questions:
 - Minimum to reduce x (day 7)
+- maximum erosure value (day 8)
+- predict the winner (day 8)

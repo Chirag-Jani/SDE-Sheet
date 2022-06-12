@@ -1,5 +1,14 @@
 # Day wise updates
 
+Day 8 - 12th June, 2022
+
+- count nodes equal to average of subtree (leetcode medium - binary tree)
+  - logic right
+  - implimentation 70% right
+  - need more practice
+
+---
+
 Day 7 - 11th June, 2022
 
 - deepest leaves sum (leetcode medium - binary tree)
