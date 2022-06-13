@@ -1,5 +1,12 @@
 # Day wise updates
 
+Day 9 - 13th June, 2022
+
+- find key in bst
+- maximum product of subarray (dp)
+
+---
+
 Day 8 - 12th June, 2022
 
 - count nodes equal to average of subtree (leetcode medium - binary tree)
