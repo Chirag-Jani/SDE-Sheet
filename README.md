@@ -1,5 +1,11 @@
 # Day wise updates
 
+Day 10 - 14th June, 2022
+
+- reverse a linked list
+
+---
+
 Day 9 - 13th June, 2022
 
 - find key in bst
